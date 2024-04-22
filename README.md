@@ -1,10 +1,11 @@
-![Screenshot 2024-04-23 at 4 53 58 AM](https://github.com/vanshksingh/WallFollower_ADV/assets/114809624/9a182bb5-04dd-4518-8bf2-415ff9314cb7)# WallFollower_ADV
 
-# Readme for Arduino Project
 
 ## Introduction
 
 This project involves using an Arduino board to control two stepper motors and an LCD display. The system utilizes ultrasonic sensors to detect obstacles and navigate according to the chosen wall-following strategy. Additionally, the system provides sound feedback using a buzzer.
+
+
+![IMG_3105](https://github.com/vanshksingh/WallFollower_ADV/assets/114809624/f991d2fc-c70e-4e9e-9f0d-efe2cd5b1544)
 
 ## Components
 
@@ -65,6 +66,12 @@ The project requires the following hardware components:
 - Adjust the parameters in the code (e.g., motor speed, sensor threshold) according to your specific hardware setup for optimal performance.
 - The code includes functions for sound feedback, LCD display updates, and obstacle detection.
 - The code is organized into setup and loop functions, with additional helper functions for specific tasks.
+
+![IMG_4166](https://github.com/vanshksingh/WallFollower_ADV/assets/114809624/04e58192-100e-4501-bfc2-3aa33e7aa55a)
+
+
+![IMG_4188](https://github.com/vanshksingh/WallFollower_ADV/assets/114809624/0b1cea40-b62f-4f31-8c10-24049f1b713a)
+
 
 ## Conclusion
 
