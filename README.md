@@ -1,6 +1,6 @@
 
 
-## Introduction
+#Introduction
 
 This project involves using an Arduino board to control two stepper motors and an LCD display. The system utilizes ultrasonic sensors to detect obstacles and navigate according to the chosen wall-following strategy. Additionally, the system provides sound feedback using a buzzer.
 
